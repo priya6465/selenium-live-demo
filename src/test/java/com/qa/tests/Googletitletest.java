@@ -21,4 +21,8 @@ public class Googletitletest {
 	public void M4() {
 		System.out.println("m4");
 			}
+	@Test
+	public void M5() {
+		System.out.println("m5");
+			}
 }
