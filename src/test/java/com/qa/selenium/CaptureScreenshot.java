@@ -22,5 +22,6 @@ public class CaptureScreenshot {
 	File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 	//FileUtils.copyFile(file, new File(./FailedScreenshot)+.png);	
 	FileUtils.copyFile(file, new File("failedtest"));
+	driver.close();
 	}
 }
