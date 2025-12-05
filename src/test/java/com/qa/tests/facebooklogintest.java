@@ -7,6 +7,10 @@ public class facebooklogintest {
 	public void m3() {
 		System.out.println("m3");
 			}
+	@Test
+	public void M7() {
+		System.out.println("m4");
+	}
 	
 	@Test
 	public void M4() {
