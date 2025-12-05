@@ -14,4 +14,8 @@ public class Googletitletest {
 		System.out.println("login test");
 		System.out.println("login test");
 	}
+	@Test
+	public void m3() {
+		System.out.println("m3");
+			}
 }
