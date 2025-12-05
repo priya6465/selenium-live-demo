@@ -12,7 +12,6 @@ public class Googletitletest {
 	@Test
 	public void mm2() {
 		System.out.println("login test");
-		System.out.println("login test");
 	}
 	@Test
 	public void m3() {
