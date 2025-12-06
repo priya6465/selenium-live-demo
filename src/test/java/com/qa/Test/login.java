@@ -15,9 +15,13 @@ public class login {
 	public void m3() {
 		System.out.println("this is m3 method of login class");
 	}
-	
 		@Test(priority=1)
 	public void m4() {
 		System.out.println("this is m4 method of login class");
 	}
+		
+		@Test(priority=1)
+		public void m5() {
+			System.out.println("this is m5 method of login class");
+		}
 }
