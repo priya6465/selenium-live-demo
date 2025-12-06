@@ -9,7 +9,7 @@ public class facebooklogintest {
 			}
 	@Test
 	public void M7() {
-		System.out.println("m4");
+		System.out.println("m7");
 	}
 	
 	@Test
