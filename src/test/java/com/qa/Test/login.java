@@ -25,5 +25,9 @@ public class login {
 		System.out.println("this is m5 method of login class");
 	}
 
+	@Test(priority=1)
+	public void m6() {
+		System.out.println("this is m6 method of login class");
+	}
 
 }
