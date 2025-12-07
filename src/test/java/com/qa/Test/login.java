@@ -15,10 +15,12 @@ public class login {
 	public void m3() {
 		System.out.println("this is m3 method of login class");
 	}
-		@Test(priority=1)
+	
+	@Test(priority=1)
 	public void m4() {
 		System.out.println("this is m4 method of login class");
 	}
+<<<<<<< HEAD
 		@Test(priority=1)
 		public void m5() {
 			System.out.println("this is m5 method of login class");
@@ -28,4 +30,12 @@ public class login {
 		public void m6() {
 			System.out.println("this is m6 method of login class");
 		}
+=======
+	@Test(priority=1)
+	public void m5() {
+		System.out.println("this is m5 method of login class");
+	}
+
+
+>>>>>>> 799358dbf12f0f6a86d35844242370779374e43c
 }
